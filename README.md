@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ulan
-- 👀 I’m interested in DS
+- 👀 I’m interested in Web Developmant
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any projects)
 - 📫 How to reach me t.me/beymaral
